@@ -141,7 +141,9 @@ function App() {
               </div>
             </div>
             <button className="bg-black hover:bg-gray-800 text-yellow-400 font-bold py-4 px-8 rounded-full text-xl transition-all duration-300 hover:scale-105 shadow-2xl">
-              Começar Agora <ArrowRight className="inline ml-2 h-6 w-6" />
+              <a href="https://pay.hotmart.com/R101653811F?off=v356dc7u&sck=HOTMART_MEM_CA&bid=1757377547755" target="_blank" rel="noopener noreferrer" className="flex items-center">
+                Começar Agora <ArrowRight className="inline ml-2 h-6 w-6" />
+              </a>
             </button>
           </div>
         </div>
@@ -191,9 +193,11 @@ function App() {
                 ))}
               </div>
               <div className="mt-8">
-                <button className="bg-black hover:bg-gray-800 text-yellow-400 font-bold py-4 px-8 rounded-full text-lg transition-all duration-300 hover:scale-105 shadow-xl">
-                  Quero o FinanceBot
-                </button>
+                <a href="https://pay.hotmart.com/R101653811F?off=v356dc7u&sck=HOTMART_MEM_CA&bid=1757377547755" target="_blank" rel="noopener noreferrer">
+                  <button className="bg-black hover:bg-gray-800 text-yellow-400 font-bold py-4 px-8 rounded-full text-lg transition-all duration-300 hover:scale-105 shadow-xl">
+                    Quero o FinanceBot
+                  </button>
+                </a>
               </div>
             </div>
             <div className="bg-gradient-to-br from-yellow-50 to-stone-100 rounded-3xl p-8">
@@ -255,7 +259,9 @@ function App() {
               </div>
             </div>
             <button className="bg-black hover:bg-gray-800 text-yellow-400 font-bold py-6 px-12 rounded-full text-xl transition-all duration-300 hover:scale-105 shadow-2xl w-full sm:w-auto">
-              Assinar Agora <ArrowRight className="inline ml-2 h-6 w-6" />
+              <a href="https://pay.hotmart.com/R101653811F?off=v356dc7u&sck=HOTMART_MEM_CA&bid=1757377547755" target="_blank" rel="noopener noreferrer" className="flex items-center">
+                Assinar Agora <ArrowRight className="inline ml-2 h-6 w-6" />
+              </a>
             </button>
             <p className="text-sm text-gray-500 mt-4">Cancele quando quiser • Sem fidelidade</p>
           </div>
@@ -345,9 +351,11 @@ function App() {
             Junte-se a milhares de pessoas que já estão no controle total de suas finanças pessoais
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
-            <button className="bg-black hover:bg-gray-800 text-yellow-400 font-bold py-6 px-12 rounded-full text-xl transition-all duration-300 hover:scale-105 shadow-2xl">
-              Começar Minha Transformação Financeira
-            </button>
+            <a href="https://pay.hotmart.com/R101653811F?off=v356dc7u&sck=HOTMART_MEM_CA&bid=1757377547755" target="_blank" rel="noopener noreferrer">
+              <button className="bg-black hover:bg-gray-800 text-yellow-400 font-bold py-6 px-12 rounded-full text-xl transition-all duration-300 hover:scale-105 shadow-2xl">
+                Começar Minha Transformação Financeira
+              </button>
+            </a>
           </div>
           <p className="text-black opacity-70">
             💳 Pagamento 100% seguro • ⚡ Ativação imediata • 🔄 Cancele quando quiser
